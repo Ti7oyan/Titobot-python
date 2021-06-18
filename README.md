@@ -1,10 +1,2 @@
 # Titobot
-A small, simple and smooth Discord Bot.
-
-My goal with Titobot is to make a bot easy to understand, use and replicate, 
-so it will be open-source. All changes will be recorded as it evolves.
-Thanks in advance to everyone who comes up and takes a look at the bot.
-
-I have left instructions and comments about the operation of the different commands within the code.
-
-No much more to say, have fun, have Titobot!
+This was my first attempt making a Discord bot based in discord.py, but it's not a good project for cloning or making from, isn't even well deployed on Github because that time I haven't got the knowledge to do it. Anywhere, I'm going to leave this here for a personal rememeber.
